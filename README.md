@@ -1,0 +1,1 @@
+# PlakaTanima-ve-DepremTahmini-React-Node.js-Pythonn
